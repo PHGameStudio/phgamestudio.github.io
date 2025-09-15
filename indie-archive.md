@@ -16,4 +16,4 @@ permalink: /indie-archive/
 
 [Inkulinati (Windows)](https://mega.nz/file/IfEU3aYT#551Ea0GxJbWviJTrFgsCdlh9LPMBqCFnCuV9zrcYcMY) (medieval board game)
 
-Use crossover to run exes on Mac, use Steam or wine for Linux
+Use Crossover to run exes on Mac, use Steam or wine for Linux
