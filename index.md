@@ -5,7 +5,9 @@ title: Home
 
 # PHGameStudio
 
-![](/images/baba.png){: width="40%"}
+![](/images/baba-black-background.png){: width="40%"}
+
+[Indie Game Archive](/indie-archive/)
 
 /\
 :)

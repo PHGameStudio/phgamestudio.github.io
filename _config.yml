@@ -4,6 +4,7 @@ description: Website for PHGameStudio
 url: "https://phgamestudio.github.io"
 header_pages:
   - index.md
+  - indie-archive.md
 exclude:
   - README.md
   - _site/
