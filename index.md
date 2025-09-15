@@ -4,5 +4,3 @@ title: Home
 ---
 
 # PHGameStudio
-
-![](/images/xhl.png)
