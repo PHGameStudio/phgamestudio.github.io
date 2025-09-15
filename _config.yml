@@ -1,10 +1,14 @@
-theme: minima
+remote_theme: jekyll/minima
+plugins: 
+  - jekyll-remote-theme
+minima:
+  skin: auto
+  nav_pages:
+    - index.md
+    - indie-archive.md
 title: PHGameStudio
 description: Website for PHGameStudio
 url: "https://phgamestudio.github.io"
-header_pages:
-  - index.md
-  - indie-archive.md
 exclude:
   - README.md
   - _site/
