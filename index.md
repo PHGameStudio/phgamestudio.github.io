@@ -9,5 +9,9 @@ title: Home
 
 [Indie Game Archive](/indie-archive/)
 
+[Godot](https://godotengine.org/)
+
+[Itch.io](https://itch.io)
+
 /\
 :)
