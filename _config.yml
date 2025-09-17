@@ -6,6 +6,7 @@ minima:
   nav_pages:
     - index.md
     - indie-archive.md
+    - resources.md
 title: PHGameStudio
 description: Website for PHGameStudio
 url: "https://phgamestudio.github.io"
