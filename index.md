@@ -11,7 +11,9 @@ title: Home
 
 [Godot](https://godotengine.org/)
 
-[Itch.io](https://itch.io)
+[Itch.io](https://phgamestudio.itch.io)
+
+[Project Manual](/Project_manual/)
 
 /\
 :)
