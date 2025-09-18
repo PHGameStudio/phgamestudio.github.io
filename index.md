@@ -7,6 +7,8 @@ title: Home
 
 ![](/images/baba-black-background.png){: width="40%"}
 
+[Guide to Git](/resources/git-guide/)
+
 [Indie Game Archive](/indie-archive/)
 
 [Godot](https://godotengine.org/)
