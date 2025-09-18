@@ -15,7 +15,7 @@ title: Home
 
 [Itch.io](https://phgamestudio.itch.io)
 
-[Project Manual](/Project_manual/)
+[Project Manual](/project-manual/)
 
 /\
 :)
