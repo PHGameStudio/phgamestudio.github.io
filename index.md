@@ -9,6 +9,8 @@ title: Home
 
 [Project Manual](/project-manual/)
 
+[Assets Drawer](/assets-drawer/)
+
 [Guide to Git](/resources/git-guide/)
 
 [Indie Game Archive](/indie-archive/)
