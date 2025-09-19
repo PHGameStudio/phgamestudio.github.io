@@ -7,7 +7,6 @@ minima:
     - index.md
     - indie-archive.md
     - resources.md
-    - assets-drawer.md
 title: PHGameStudio
 description: Website for PHGameStudio
 url: "https://phgamestudio.github.io"
