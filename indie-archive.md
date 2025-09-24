@@ -33,4 +33,5 @@ permalink: /indie-archive/
 [Hyperbolica (Windows)](https://mega.nz/file/wWcxSCIZ#QeCsUCYvQfUv286zdrDB0sc-BrIbEkvQruQ917l4sDA)
 
 Use Crossover to run exes on Mac, use Steam or wine for Linux
-use mac on mac too.
+
+Download Crossover for mac [here](https://www.macbed.com/crossover-25-1/)
