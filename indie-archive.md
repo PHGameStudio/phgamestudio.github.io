@@ -32,6 +32,12 @@ permalink: /indie-archive/
 
 [Chants of Sennaar (Windows)](https://mega.nz/file/hO8yTRgC#DxzQ1sRQArY19-mPNQcE3jCWmYekSLXG5_tUhUnYswE) (linguistics game)
 
+The Faraway Trilogy:
+
+- [Faraway: Director's Cut](https://mega.nz/file/cDdg3LDQ#LCDVReFb9zbFT3GlDoW0qkhzmR-Bp_i23-YtK1RhNN0)
+- [Faraway 2: Jungle Escape](https://mega.nz/file/ZbVgERBY#YYUzXZ0ho-hoqvYwgiTqka7PkWQdKHa2Q3qZu63aYD4)
+- [Faraway 3: Arctic Escape](https://mega.nz/file/cD8j1T5C#u_S0rSuVfFUuZPA2hh-Dx5_8r8DilaiSvGUn1ya8c88)
+
 Use Crossover to run exes on Mac, use Steam or wine for Linux
 
 Download Crossover for Mac [here](https://www.macbed.com/crossover-25-1/)
