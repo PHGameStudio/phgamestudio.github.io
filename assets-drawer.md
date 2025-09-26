@@ -5,15 +5,19 @@ permalink: /assets-drawer/
 ---
 
 # Asset Drawers
-### note: *this page **ONLY** includes websites or tools that can be used to help you create your **visual assets** for your games. for music creation, I personally recommended GarageBand*
+
+Note: *this page **ONLY** includes websites or tools that can be used to help you create your **visual assets** for your games. For music creation, I personally recommended GarageBand*
 
 [pixilart](https://www.pixilart.com/)
-- web tool/ mobile app
+- Web tool/ mobile app
 
-[krita](https://github.com/KDE/krita)
-- APP on Windows, AppleOS*, Linux, Android
+[Krita](https://krita.org)
+- APP on Windows, AppleOS\*, Linux, Android
+
+[Inkscape](https://inkscape.org/)
+- Versatile SVG editor, open source and available for Windows, Mac OS, and Linux
 
 [Aseprite](https://github.com/aseprite/aseprite)
 - APP on Linux, MacOS, Windows
 
-* : AppleOS means IOS, MacOS, IpadOS
+\* : AppleOS means IOS, MacOS, IpadOS
