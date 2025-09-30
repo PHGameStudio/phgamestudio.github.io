@@ -11,7 +11,7 @@ title: Resources
 - [Itch.io](https://itch.io)
 - [ProtonDB](https://protondb.com): page showing the status of Linux support for all games available on steam
 
-## **Suggested model for Windsurf(Based on different tasks and credit consumes):** 
+## Suggested model for Windsurf(Based on different tasks and credit consumes):
 
 - low complexity task: Grok code fast(0x), GPT5-Codex(0x)
 - medium complexity task: GPT5-Codex(0x), GPT o3(1x), Claude Sonnet 4.5(1x)
