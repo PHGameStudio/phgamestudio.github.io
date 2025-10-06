@@ -18,3 +18,7 @@ title: Resources
 - high complexity task: Claude Sonnet 4(2x), Claude Sonnet 4.5(1x), Claude Sonnet 4.5-thinking (1.5x)
 - You want to abort your account: Claude Opus 4.1 (Thinking) (20x)
 - You want to abort your project: SWE-1(0x), Deepseek V3(0x), DeepSeek R1(0x)
+
+## Vibe coding reset tutorial:
+- [Account Switch Demo repository](https://github.com/yuxinle1996/account-switch-demo)
+available for Cursor, Augment Code and Windsurf
