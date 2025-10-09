@@ -12,12 +12,12 @@ Note: *this page **ONLY** includes websites or tools that can be used to help yo
 - Web tool/ mobile app
 
 [Krita](https://krita.org)
-- APP on Windows, AppleOS\*, Linux, Android
+- APP on Windows, Apple OS\*, Linux, Android
 
 [Inkscape](https://inkscape.org/)
-- Versatile SVG editor, open source and available for Windows, Mac OS, and Linux
+- Versatile SVG editor, open source and available for Windows, MacOS, and Linux
 
 [Aseprite](https://github.com/aseprite/aseprite)
 - APP on Linux, MacOS, Windows
 
-\* : AppleOS means iOS, MacOS, iPadOS
+\* : Apple OS means iOS, MacOS, iPad OS
