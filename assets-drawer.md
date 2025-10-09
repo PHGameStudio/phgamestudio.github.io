@@ -20,4 +20,4 @@ Note: *this page **ONLY** includes websites or tools that can be used to help yo
 [Aseprite](https://github.com/aseprite/aseprite)
 - APP on Linux, MacOS, Windows
 
-\* : AppleOS means IOS, MacOS, IpadOS
+\* : AppleOS means iOS, MacOS, iPadOS
