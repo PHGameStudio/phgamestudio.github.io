@@ -39,11 +39,19 @@ permalink: /resources/terminal-guide/
 - Linux: use distro's native package manager or `rpm-ostree` (no flatpak package)
 	- Or use the official binary installer: `curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin` (not recommended, only use this if all other methods aren't available)
 
-## What Are Paths (by Claude)
+## Basic commands
+
+- `ls`: **l**i**s**ts contents in the current working directory
+- `pwd`: **p**rints the path of the current **w**orking **d**irectory
+- `cd path/to/directory`: **c**hanges working **d**irectory to `path/to/directory`
+- `mkdir directory-name`: **m**a**k**es a **dir**ectory named `directory-name`
+- When using a path containing special symbols like spaces in commands, wrap the entire path in quotes or escape the spaces like `path/to/directory\ with\ spaces` (only on Mac OS or linux)
+
+### What Are Paths (by Claude)
 
 A **path** is an address that tells the computer exactly where a file, folder, or program is located in the file system. There are two types of paths and an important environment variable to understand:
 
-### File Paths
+#### File Paths
 
 **Absolute Paths**
 - Complete addresses that specify the full location from the top of the file system
@@ -60,7 +68,7 @@ A **path** is an address that tells the computer exactly where a file, folder, o
 - Unix-like systems use forward slashes: `/home/user/documents`
 - Windows uses backslashes: `C:\Users\Documents`
 
-### PATH Environment Variable
+#### PATH Environment Variable
 
 **What It Does**
 - A list of directories the command line searches when running commands
@@ -71,14 +79,6 @@ A **path** is an address that tells the computer exactly where a file, folder, o
 - Programs in PATH directories can be run from anywhere without specifying their location
 - Order matters—the first matching program found is the one that runs
 - To run programs not in PATH, provide the full path or use `./` prefix for current directory
-
-## Basic commands
-
-- `ls`: **l**i**s**ts contents in the current working directory
-- `pwd`: **p**rints the path of the current **w**orking **d**irectory
-- `cd path/to/directory`: **c**hanges working **d**irectory to `path/to/directory`
-- `mkdir directory-name`: **m**a**k**es a **dir**ectory named `directory-name`
-- When using a path containing special symbols like spaces in commands, wrap the entire path in quotes or escape the spaces like `path/to/directory\ with\ spaces` (only on Mac OS or linux)
 
 ## Setup A Terminal File Manager So That You Don't Need To Use The Basic Commands
 
