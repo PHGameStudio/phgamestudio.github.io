@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# PHGameStudio
+# PHibe Coders
 
 ![](/images/baba-black-background.png){: width="40%"}
 
