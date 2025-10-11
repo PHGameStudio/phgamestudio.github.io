@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Resources
+permalink: /resources/
 ---
 
 # Resources
 
+- [Guide to Setup Basic Terminal Development Environment](/resources/terminal-guide/)
 - [Your first 2D game by Godot](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/)
 - [Guide to Git](/resources/git-guide/)
 - [Asset Drawers](/assets-drawer/)
