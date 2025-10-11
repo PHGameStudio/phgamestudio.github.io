@@ -41,3 +41,5 @@ The Faraway Trilogy:
 Use Crossover to run exes on Mac, use Steam or wine for Linux
 
 Download Crossover for Mac [here](https://www.macbed.com/crossover-25-1/)
+
+<small>Chess Battle Advanced</small>
