@@ -35,7 +35,7 @@ permalink: /resources/terminal-guide/
 ### Mac OS and Linux
 
 - Use Kitty terminal
-- Mac OS: `brew install --cask kitty`, launch from spotlight/launchpad
+- Mac OS: search for "terminal" in spotlight/launchpad and open, run `brew install --cask kitty`, launch kitty from spotlight/launchpad
 - Linux: use distro's native package manager or `rpm-ostree` (no flatpak package)
 	- Or use the official binary installer: `curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin` (not recommended, only use this if all other methods aren't available)
 
