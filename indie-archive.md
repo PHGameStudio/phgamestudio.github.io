@@ -12,8 +12,6 @@ permalink: /indie-archive/
 
 [Baba Is You (Linux)](https://mega.nz/file/NakGXCia#oHtNjfzplSUfz1Y49UP9qLLfTjcXYP2isqn8iyhx9TQ)
 
-<small>Chess Battle Advanced</small>
-
 ## Roguelikes
 
 [FTL: Faster Than Light (Windows)](https://mega.nz/file/gb0kVSzY#9zrGu_6LHGbmNfn3UqtOGSEY_BkxXBsYnDLy-hsXKYg)
@@ -43,3 +41,5 @@ The Faraway Trilogy:
 Use Crossover to run exes on Mac, use Steam or wine for Linux
 
 Download Crossover for Mac [here](https://www.macbed.com/crossover-25-1/)
+
+<small>Chess Battle Advanced</small>
