@@ -5,7 +5,7 @@ minima:
     - index.md
     - indie-archive.md
     - resources.md
-title: PHibe Coders
+title: PHGameStudio
 description: PH Game Studio
 url: "https://phgamestudio.github.io"
 exclude:
