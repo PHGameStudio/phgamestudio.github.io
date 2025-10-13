@@ -2,6 +2,7 @@
 layout: default
 title: Guide to Setup Basic Terminal Development Environment
 permalink: /resources/terminal-guide/
+toc: true
 ---
 
 # Guide to Setup Basic Terminal Development Environment

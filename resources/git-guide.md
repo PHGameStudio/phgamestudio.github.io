@@ -2,6 +2,7 @@
 layout: default
 title: Guide to Git
 permalink: /resources/git-guide/
+toc: true
 ---
 
 # Guide to Git
