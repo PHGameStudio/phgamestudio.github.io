@@ -22,6 +22,8 @@ permalink: /indie-archive/
 
 [Shotgun King (Windows)](https://mega.nz/file/gGExDIDK#YdT356nAcNU88gxWEFSLmsIl1maW8_RFdgFUOA4HhVc)
 
+[Invisible Inc (Windows, not sure if working)](https://mega.nz/file/UCdl2LZI#XXO0YHT7Y8PeHVqb8adlYpR1aBrk173QQTgUUaBDmWM)
+
 ## Math Games
 
 [4D Golf (Windows)](https://mega.nz/file/sK0W3AAC#Fzfk_UUOW5uqMSD--fPacgM-ID9cXTfA7rpjFhVAGsA)
