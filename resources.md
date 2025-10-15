@@ -12,6 +12,7 @@ permalink: /resources/
 - [Asset Drawers](/assets-drawer/)
 - [Itch.io](https://itch.io)
 - [ProtonDB](https://protondb.com): page showing the status of Linux support for all games available on steam
+- [Rules Guide](/resources/rules-Guide/)
 
 ## Suggested model for Windsurf(Based on different tasks and credit consumes):
 
