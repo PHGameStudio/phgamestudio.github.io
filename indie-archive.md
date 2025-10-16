@@ -22,7 +22,7 @@ permalink: /indie-archive/
 
 [Shotgun King (Windows)](https://mega.nz/file/gGExDIDK#YdT356nAcNU88gxWEFSLmsIl1maW8_RFdgFUOA4HhVc)
 
-[Invisible Inc (Windows, not sure if working)](https://mega.nz/file/UCdl2LZI#XXO0YHT7Y8PeHVqb8adlYpR1aBrk173QQTgUUaBDmWM)
+[Invisible Inc](https://mega.nz/file/UCdl2LZI#XXO0YHT7Y8PeHVqb8adlYpR1aBrk173QQTgUUaBDmWM) (need [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) to run on Linux)
 
 ## Math Games
 
@@ -34,7 +34,7 @@ permalink: /indie-archive/
 
 [Chants of Sennaar (Windows)](https://mega.nz/file/hO8yTRgC#DxzQ1sRQArY19-mPNQcE3jCWmYekSLXG5_tUhUnYswE) (linguistics game)
 
-The Faraway Trilogy:
+The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) to run on Linux):
 
 - [Faraway: Director's Cut](https://mega.nz/file/cDdg3LDQ#LCDVReFb9zbFT3GlDoW0qkhzmR-Bp_i23-YtK1RhNN0)
 - [Faraway 2: Jungle Escape](https://mega.nz/file/ZbVgERBY#YYUzXZ0ho-hoqvYwgiTqka7PkWQdKHa2Q3qZu63aYD4)
