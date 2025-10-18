@@ -42,6 +42,7 @@ toc: true
 
 ## Basic commands
 
+- ([Command line guide by LouisCaiKM7](https://github.com/LouisCaiKM7/command-line-the-guide))
 - `ls`: **l**i**s**ts contents in the current working directory
 - `pwd`: **p**rints the path of the current **w**orking **d**irectory
 - `cd path/to/directory`: **c**hanges working **d**irectory to `path/to/directory`
