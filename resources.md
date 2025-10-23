@@ -17,8 +17,8 @@ permalink: /resources/
 ## Suggested model for Windsurf(Based on different tasks and credit consumes):
 
 - low complexity task: Grok code fast(0x), GPT5-Codex(0x)
-- medium complexity task: GPT5-Codex(0x), GPT o3(1x), Claude Sonnet 4.5(1x)
-- high complexity task: Claude Sonnet 4(2x), Claude Sonnet 4.5(1x), Claude Sonnet 4.5-thinking (1.5x)
+- medium complexity task: GPT5-Codex(0x), GPT o3(1x), Claude Sonnet 4.5(2x), GPT5-low Reasoning (0.5x), GPT5-medium reasoning (1x)
+- high complexity task: Claude Sonnet 4(2x), Claude Sonnet 4.5(2x), Claude Sonnet 4.5-thinking (3x)
 - You want to abort your account: Claude Opus 4.1 (Thinking) (20x)
 - You want to abort your project: SWE-1(0x), Deepseek V3(0x), DeepSeek R1(0x)
 
