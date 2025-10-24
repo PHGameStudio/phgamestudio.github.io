@@ -13,6 +13,7 @@ permalink: /resources/
 - [Itch.io](https://itch.io)
 - [ProtonDB](https://protondb.com): page showing the status of Linux support for all games available on steam
 - [Rules Guide](/resources/rules-guide/)
+- [Context7 MCP](https://github.com/upstash/context7) provide better and more up-to-date coding knowledge
 
 ## Suggested model for Windsurf(Based on different tasks and credit consumes):
 
