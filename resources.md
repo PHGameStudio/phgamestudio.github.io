@@ -18,10 +18,10 @@ permalink: /resources/
 ## Suggested model for Windsurf(Based on different tasks and credit consumes):
 
 - low complexity task: Grok code fast(0x), GPT5-Codex(0x)
-- medium complexity task: GPT5-Codex(0x), GPT o3(1x), Claude Sonnet 4.5(2x), GPT5-low Reasoning (0.5x), GPT5-medium reasoning (1x)
-- high complexity task: Claude Sonnet 4(2x), Claude Sonnet 4.5(2x), Claude Sonnet 4.5-thinking (3x)
-- You want to abort your account: Claude Opus 4.1 (Thinking) (20x)
-- You want to abort your project: SWE-1(0x), Deepseek V3(0x), DeepSeek R1(0x)
+- medium complexity task: GPT5-Codex(0x), GPT o3(1x), Claude Sonnet 4.5(2x), GPT5-low Reasoning (0.5x), GPT5-medium reasoning (1x), SWE-1.5(1x), gemini2.5 pro(1x),claude haiku(1x)
+- high complexity task: Claude Sonnet 4(2x), Claude Sonnet 4.5(2x), Claude Sonnet 4.5-thinking (3x), SWE-1.5(1x),GPT5-high reasoning(2x)
+- not recommended: Deepseek V3(0x), DeepSeek R1(0x)
+- other models are Okay, but usually low in either cost efficiency or quality.
 
 ## Vibe coding reset tutorial:
 - [Account Switch Demo repository](https://github.com/yuxinle1996/account-switch-demo)
