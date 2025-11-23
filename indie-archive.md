@@ -42,6 +42,6 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 Use Crossover to run exes on Mac, use Steam or wine for Linux
 
-Download Crossover for Mac [here](https://www.macbed.com/crossover-25-1/)
+Download Crossover for Mac [here](https://haxmac.cc/crossover-mac/)
 
 <small>Chess Battle Advanced</small>
