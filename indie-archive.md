@@ -24,6 +24,10 @@ permalink: /indie-archive/
 
 [Invisible Inc](https://mega.nz/file/UCdl2LZI#XXO0YHT7Y8PeHVqb8adlYpR1aBrk173QQTgUUaBDmWM) (need [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) to run on Linux)
 
+[Don't Starve (Windows)](https://mega.nz/file/TFtSVZ5Q#-fCm51G9NY8unRZz_hyv4vJRsmY2krsI1-UHqISjXVo)
+
+[Don't Starve (Linux)](https://mega.nz/file/mUlRiS4A#qc7NJ2S95kTVH5eZhSgAbMaKRiM4xxcqLz4I33zteCk)
+
 ## Math Games
 
 [4D Golf (Windows)](https://mega.nz/file/sK0W3AAC#Fzfk_UUOW5uqMSD--fPacgM-ID9cXTfA7rpjFhVAGsA)
@@ -39,6 +43,10 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 - [Faraway: Director's Cut](https://mega.nz/file/cDdg3LDQ#LCDVReFb9zbFT3GlDoW0qkhzmR-Bp_i23-YtK1RhNN0)
 - [Faraway 2: Jungle Escape](https://mega.nz/file/ZbVgERBY#YYUzXZ0ho-hoqvYwgiTqka7PkWQdKHa2Q3qZu63aYD4)
 - [Faraway 3: Arctic Escape](https://mega.nz/file/cD8j1T5C#u_S0rSuVfFUuZPA2hh-Dx5_8r8DilaiSvGUn1ya8c88)
+
+## Shooter Games
+
+- [SUPERHOT (Windows)](https://mega.nz/file/TJs1lKKZ#8rxpeUhkOiqV7fz6am3LeeLXefZ9cUXOBhn8AO30EYs)
 
 Use Crossover to run exes on Mac, use Steam or wine for Linux
 
