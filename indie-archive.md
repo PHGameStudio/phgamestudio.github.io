@@ -44,6 +44,10 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 - [Faraway 2: Jungle Escape](https://mega.nz/file/ZbVgERBY#YYUzXZ0ho-hoqvYwgiTqka7PkWQdKHa2Q3qZu63aYD4)
 - [Faraway 3: Arctic Escape](https://mega.nz/file/cD8j1T5C#u_S0rSuVfFUuZPA2hh-Dx5_8r8DilaiSvGUn1ya8c88)
 
+## RPGs
+
+[Undertale](https://mega.nz/file/eENA1JwB#Y__QdC0N5SpFyRViaoSHCw6Ue86cSiTF0h222f17Ad4)
+
 ## Shooter Games
 
 [Shotgun King (Windows)](https://mega.nz/file/gGExDIDK#YdT356nAcNU88gxWEFSLmsIl1maW8_RFdgFUOA4HhVc)
