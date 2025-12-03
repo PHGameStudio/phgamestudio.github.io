@@ -38,6 +38,8 @@ permalink: /indie-archive/
 
 [Chants of Sennaar (Windows)](https://mega.nz/file/hO8yTRgC#DxzQ1sRQArY19-mPNQcE3jCWmYekSLXG5_tUhUnYswE) (linguistics game)
 
+[Cubicatch](https://mega.nz/file/vVED2BwD#Dnew8GLOmtAq0-FzT4JfPGzhIZnOU1bfJJPVDHHSrgw) (3D navigation puzzle)
+
 The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) to run on Linux):
 
 - [Faraway: Director's Cut](https://mega.nz/file/cDdg3LDQ#LCDVReFb9zbFT3GlDoW0qkhzmR-Bp_i23-YtK1RhNN0)
