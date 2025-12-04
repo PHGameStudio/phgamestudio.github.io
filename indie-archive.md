@@ -14,9 +14,7 @@ permalink: /indie-archive/
 
 ## Roguelikes
 
-[Don't Starve (Windows)](https://mega.nz/file/TFtSVZ5Q#-fCm51G9NY8unRZz_hyv4vJRsmY2krsI1-UHqISjXVo)
-
-[Don't Starve (Linux)](https://mega.nz/file/mUlRiS4A#qc7NJ2S95kTVH5eZhSgAbMaKRiM4xxcqLz4I33zteCk)
+[Don't Starve (Windows)](https://mega.nz/file/TFtSVZ5Q#-fCm51G9NY8unRZz_hyv4vJRsmY2krsI1-UHqISjXVo) (survival roguelike)
 
 [FTL: Faster Than Light (Windows)](https://mega.nz/file/gb0kVSzY#9zrGu_6LHGbmNfn3UqtOGSEY_BkxXBsYnDLy-hsXKYg)
 
