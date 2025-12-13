@@ -64,8 +64,8 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 [Shotgun King](https://mega.nz/file/KYkjgY6B#rZRvuYOTOe0vJVT6xMAPnISsArN9Mtpk21j8x09V6ZE)
 
-- [SUPERHOT](https://mega.nz/file/TJs1lKKZ#8rxpeUhkOiqV7fz6am3LeeLXefZ9cUXOBhn8AO30EYs)
-	- You have to check out this game. It's the most innovative shooter I've played in years.
+[SUPERHOT](https://mega.nz/file/TJs1lKKZ#8rxpeUhkOiqV7fz6am3LeeLXefZ9cUXOBhn8AO30EYs)
+- You have to check out this game. It's the most innovative shooter I've played in years.
 
 Use Crossover to run exes on Mac, use Steam or wine for Linux
 
