@@ -6,43 +6,47 @@ permalink: /indie-archive/
 
 # Indie Game Archive
 
+Note: more games in this collection is moving towards the 7z format instead of zip or rar for open source and compression efficiency. If a link isn't followed by "(zip)" or "(rar)", it's a 7z file, and you need an app/command that can extract 7z files to extract the game files.
+
 ## Baba Is You
 
-[Baba Is You (Windows)](https://mega.nz/file/xTM0CCKS#nrildwRBGfn6MGqoW8o_GEav2npVKTByrMNYkHwsl_k)
+[Baba Is You (Windows)](https://mega.nz/file/xTM0CCKS#nrildwRBGfn6MGqoW8o_GEav2npVKTByrMNYkHwsl_k) (zip)
 
-[Baba Is You (Linux)](https://mega.nz/file/NakGXCia#oHtNjfzplSUfz1Y49UP9qLLfTjcXYP2isqn8iyhx9TQ)
+[Baba Is You (Linux)](https://mega.nz/file/SNMlhTTJ#hNjNfheD46ZA5LZZsxeR-G2qh71W5rYcV3urN_heCqE)
 
 ## Roguelikes
 
-[Don't Starve (Windows)](https://mega.nz/file/TFtSVZ5Q#-fCm51G9NY8unRZz_hyv4vJRsmY2krsI1-UHqISjXVo) (survival roguelike)
+[Don't Starve](https://mega.nz/file/TFtSVZ5Q#-fCm51G9NY8unRZz_hyv4vJRsmY2krsI1-UHqISjXVo) (survival roguelike)
 
-[FTL: Faster Than Light (Windows)](https://mega.nz/file/gb0kVSzY#9zrGu_6LHGbmNfn3UqtOGSEY_BkxXBsYnDLy-hsXKYg)
+[FTL: Faster Than Light](https://mega.nz/file/gb0kVSzY#9zrGu_6LHGbmNfn3UqtOGSEY_BkxXBsYnDLy-hsXKYg) (zip)
 
-[Inkulinati (Windows)](https://mega.nz/file/IfEU3aYT#551Ea0GxJbWviJTrFgsCdlh9LPMBqCFnCuV9zrcYcMY) (medieval board game)
+[Inkulinati](https://mega.nz/file/IfEU3aYT#551Ea0GxJbWviJTrFgsCdlh9LPMBqCFnCuV9zrcYcMY) (medieval board game) (zip)
 
-[Into the Breach (Windows)](https://mega.nz/file/ZHdGwBLY#fMoFF9yQN4ghu0j0_DASSKmwstVDHWVbTjJ6EzVfqyA)
+[Into the Breach](https://mega.nz/file/ZHdGwBLY#fMoFF9yQN4ghu0j0_DASSKmwstVDHWVbTjJ6EzVfqyA) (zip)
 
-[Invisible Inc](https://mega.nz/file/UCdl2LZI#XXO0YHT7Y8PeHVqb8adlYpR1aBrk173QQTgUUaBDmWM) (need [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) to run on Linux)
+[Invisible Inc](https://mega.nz/file/UCdl2LZI#XXO0YHT7Y8PeHVqb8adlYpR1aBrk173QQTgUUaBDmWM) (need [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) to run on Linux) (zip)
 
 ## Math Games
 
-[4D Golf (Windows)](https://mega.nz/file/sK0W3AAC#Fzfk_UUOW5uqMSD--fPacgM-ID9cXTfA7rpjFhVAGsA)
+[4D Golf](https://mega.nz/file/WcVGzJZR#QWx80CxscW7hQy4CQV2j5sT-a_AKKYZDxyZo-us37eI)
 
-[Hyperbolica (Windows)](https://mega.nz/file/wWcxSCIZ#QeCsUCYvQfUv286zdrDB0sc-BrIbEkvQruQ917l4sDA)
+[Hyperbolica](https://mega.nz/file/wWcxSCIZ#QeCsUCYvQfUv286zdrDB0sc-BrIbEkvQruQ917l4sDA) (zip)
 
 ## Other Puzzle Games
 
 [The Art of Reflection (Visual Perspective Puzzle)](https://mega.nz/file/OJdlgYzB#o4BtLhrsYdWvD9kFMua_3y3gs7I9FNGcMcpAZYgb-bU)
 
-[Chants of Sennaar (Windows)](https://mega.nz/file/hO8yTRgC#DxzQ1sRQArY19-mPNQcE3jCWmYekSLXG5_tUhUnYswE) (linguistics game)
+[Chants of Sennaar](https://mega.nz/file/bVMzWbBD#Tz_OQXRQwASpyHpgsq0Fo5Q8i0adxFJ3CsGv8NuEd0A) (linguistics game)
 
 [Cubicatch](https://mega.nz/file/vVED2BwD#Dnew8GLOmtAq0-FzT4JfPGzhIZnOU1bfJJPVDHHSrgw) (3D navigation puzzle)
 
 The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) to run on Linux):
 
-- [Faraway: Director's Cut](https://mega.nz/file/cDdg3LDQ#LCDVReFb9zbFT3GlDoW0qkhzmR-Bp_i23-YtK1RhNN0)
-- [Faraway 2: Jungle Escape](https://mega.nz/file/ZbVgERBY#YYUzXZ0ho-hoqvYwgiTqka7PkWQdKHa2Q3qZu63aYD4)
-- [Faraway 3: Arctic Escape](https://mega.nz/file/cD8j1T5C#u_S0rSuVfFUuZPA2hh-Dx5_8r8DilaiSvGUn1ya8c88)
+- [Faraway: Director's Cut](https://mega.nz/file/GJsykA5S#ksHAEmhGyNaktplap0u_sdRadmkBCU25QVUDRyhy5IA)
+- [Faraway 2: Jungle Escape](https://mega.nz/file/WJ0mwRQD#vH_xTnQmZgSSw8kCdnzymuq_DDt_ixiO5Y9mECy3qD4)
+- [Faraway 3: Arctic Escape](https://mega.nz/file/jUUFyJhD#vvdggI9mdPCp5ZU5aQaqWTEeN76EWGvTFcTHeCeacnA)
+
+[Öoo](https://mega.nz/file/bQFggRzK#jcFHjoKKNeJWxk-Np8LTNM5TYBRHtSqW2XspLcBMJNM)
 
 [HUMANITY](https://mega.nz/file/fM8AAAiA#eYzu8UiW75hv-f79Q1oSELZVOelndH8RXtk6xSTIlvI) (guiding-based 3D puzzle platformer)
 
@@ -52,11 +56,15 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 [Undertale](https://mega.nz/file/eENA1JwB#Y__QdC0N5SpFyRViaoSHCw6Ue86cSiTF0h222f17Ad4)
 
+## Rhythm Games
+
+[A Dance of Fire and Ice](https://mega.nz/file/DA1TEKZa#cjqqKXgzfk9Gr4yHkW0z-FnrC-t-rFJSUKxHAIUzyKU)
+
 ## Shooter Games
 
-[Shotgun King (Windows)](https://mega.nz/file/gGExDIDK#YdT356nAcNU88gxWEFSLmsIl1maW8_RFdgFUOA4HhVc)
+[Shotgun King](https://mega.nz/file/gGExDIDK#YdT356nAcNU88gxWEFSLmsIl1maW8_RFdgFUOA4HhVc) (7z)
 
-- [SUPERHOT (Windows)](https://mega.nz/file/TJs1lKKZ#8rxpeUhkOiqV7fz6am3LeeLXefZ9cUXOBhn8AO30EYs)
+- [SUPERHOT](https://mega.nz/file/TJs1lKKZ#8rxpeUhkOiqV7fz6am3LeeLXefZ9cUXOBhn8AO30EYs)
 	- You have to check out this game. It's the most innovative shooter I've played in years.
 
 Use Crossover to run exes on Mac, use Steam or wine for Linux
