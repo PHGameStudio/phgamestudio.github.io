@@ -6,7 +6,7 @@ permalink: /indie-archive/
 
 # Indie Game Archive
 
-Note: more games in this collection is moving towards the 7z format instead of zip or rar for open source and compression efficiency. If a link isn't followed by "(zip)" or "(rar)", it's a 7z file, and you need an app/command that can extract 7z files to extract the game files.
+Note: all links from this page are to 7z files. You need an app/command that can extract 7z files to extract the game files.
 
 ## Baba Is You
 
@@ -18,19 +18,19 @@ Note: more games in this collection is moving towards the 7z format instead of z
 
 [Don't Starve](https://mega.nz/file/TFtSVZ5Q#-fCm51G9NY8unRZz_hyv4vJRsmY2krsI1-UHqISjXVo) (survival roguelike)
 
-[FTL: Faster Than Light](https://mega.nz/file/gb0kVSzY#9zrGu_6LHGbmNfn3UqtOGSEY_BkxXBsYnDLy-hsXKYg) (zip)
+[FTL: Faster Than Light](https://mega.nz/file/WQcknZxQ#Koydr_lOOhBCVt-1pKhHbVBaJBs833W-ecgLocdZhIo)
 
-[Inkulinati](https://mega.nz/file/IfEU3aYT#551Ea0GxJbWviJTrFgsCdlh9LPMBqCFnCuV9zrcYcMY) (medieval board game) (zip)
+[Inkulinati](https://mega.nz/file/6QkHUSZQ#II1SBwim5UXMjF-POTApbYZ6Y950jKwXfVC8_7iTQT0) (medieval board game)
 
-[Into the Breach](https://mega.nz/file/ZHdGwBLY#fMoFF9yQN4ghu0j0_DASSKmwstVDHWVbTjJ6EzVfqyA) (zip)
+[Into the Breach](https://mega.nz/file/KFFTkLoI#RVdZgIuy3G69qXPqoRQDL-m0b2ZEsRt16er1_TKuuN4)
 
-[Invisible Inc](https://mega.nz/file/UCdl2LZI#XXO0YHT7Y8PeHVqb8adlYpR1aBrk173QQTgUUaBDmWM) (need [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) to run on Linux) (zip)
+[Invisible Inc](https://mega.nz/file/zM8n0JDC#ZpACP9GcSpSkpDebbZ0UIQBlhlVN-gmmzv6Q67Whtow)
 
 ## Math Games
 
 [4D Golf](https://mega.nz/file/WcVGzJZR#QWx80CxscW7hQy4CQV2j5sT-a_AKKYZDxyZo-us37eI)
 
-[Hyperbolica](https://mega.nz/file/wWcxSCIZ#QeCsUCYvQfUv286zdrDB0sc-BrIbEkvQruQ917l4sDA) (zip)
+[Hyperbolica](https://mega.nz/file/SBt2lYgb#2qGKHmdua3Eyhd4jMrQKqt3-PoPSO25v3JGdO7GYOVA)
 
 ## Other Puzzle Games
 
@@ -62,7 +62,7 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 ## Shooter Games
 
-[Shotgun King](https://mega.nz/file/gGExDIDK#YdT356nAcNU88gxWEFSLmsIl1maW8_RFdgFUOA4HhVc) (zip)
+[Shotgun King](https://mega.nz/file/KYkjgY6B#rZRvuYOTOe0vJVT6xMAPnISsArN9Mtpk21j8x09V6ZE)
 
 - [SUPERHOT](https://mega.nz/file/TJs1lKKZ#8rxpeUhkOiqV7fz6am3LeeLXefZ9cUXOBhn8AO30EYs)
 	- You have to check out this game. It's the most innovative shooter I've played in years.
