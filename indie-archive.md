@@ -10,7 +10,7 @@ Note: more games in this collection is moving towards the 7z format instead of z
 
 ## Baba Is You
 
-[Baba Is You (Windows)](https://mega.nz/file/xTM0CCKS#nrildwRBGfn6MGqoW8o_GEav2npVKTByrMNYkHwsl_k) (zip)
+[Baba Is You (Windows)](https://mega.nz/file/iUNwiaZa#2iW-2iqKysDNXG8dZg6kclrGyB2eXuHa-CH0Ja7mJv0)
 
 [Baba Is You (Linux)](https://mega.nz/file/SNMlhTTJ#hNjNfheD46ZA5LZZsxeR-G2qh71W5rYcV3urN_heCqE)
 
@@ -62,7 +62,7 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 ## Shooter Games
 
-[Shotgun King](https://mega.nz/file/gGExDIDK#YdT356nAcNU88gxWEFSLmsIl1maW8_RFdgFUOA4HhVc) (7z)
+[Shotgun King](https://mega.nz/file/gGExDIDK#YdT356nAcNU88gxWEFSLmsIl1maW8_RFdgFUOA4HhVc) (zip)
 
 - [SUPERHOT](https://mega.nz/file/TJs1lKKZ#8rxpeUhkOiqV7fz6am3LeeLXefZ9cUXOBhn8AO30EYs)
 	- You have to check out this game. It's the most innovative shooter I've played in years.
