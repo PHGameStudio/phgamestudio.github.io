@@ -46,9 +46,9 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 - [Faraway 2: Jungle Escape](https://mega.nz/file/WJ0mwRQD#vH_xTnQmZgSSw8kCdnzymuq_DDt_ixiO5Y9mECy3qD4)
 - [Faraway 3: Arctic Escape](https://mega.nz/file/jUUFyJhD#vvdggI9mdPCp5ZU5aQaqWTEeN76EWGvTFcTHeCeacnA)
 
-[Öoo](https://mega.nz/file/bQFggRzK#jcFHjoKKNeJWxk-Np8LTNM5TYBRHtSqW2XspLcBMJNM)
-
 [HUMANITY](https://mega.nz/file/fM8AAAiA#eYzu8UiW75hv-f79Q1oSELZVOelndH8RXtk6xSTIlvI) (guiding-based 3D puzzle platformer)
+
+[Öoo](https://mega.nz/file/bQFggRzK#jcFHjoKKNeJWxk-Np8LTNM5TYBRHtSqW2XspLcBMJNM)
 
 ## RPGs
 
