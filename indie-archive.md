@@ -48,6 +48,10 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 [HUMANITY](https://mega.nz/file/fM8AAAiA#eYzu8UiW75hv-f79Q1oSELZVOelndH8RXtk6xSTIlvI) (guiding-based 3D puzzle platformer)
 
+[Lingo](https://mega.nz/file/jM9DRCgY#kQmV17RGGZM2iUNS8v7d15TYCC-WYVUPKm70kF5iPNk)
+
+[Lingo 2](https://mega.nz/file/ORcWHYjL#Dy4XZoszyKO66jcqMfQdzQA11yFIKdcn228HwRF_ZCg)
+
 [Öoo](https://mega.nz/file/bQFggRzK#jcFHjoKKNeJWxk-Np8LTNM5TYBRHtSqW2XspLcBMJNM)
 
 ## RPGs
