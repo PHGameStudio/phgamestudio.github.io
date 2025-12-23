@@ -64,6 +64,10 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 [Undertale](https://mega.nz/file/eENA1JwB#Y__QdC0N5SpFyRViaoSHCw6Ue86cSiTF0h222f17Ad4)
 
+## Sandbox Games
+
+[Space Engineers](https://mega.nz/file/OMsklTIb#ONiGKcYxERXVI4PrpQ-LGMvO8Vhnz32uYvYLRV-8mNg)
+
 ## Shooter Games
 
 [Shotgun King](https://mega.nz/file/KYkjgY6B#rZRvuYOTOe0vJVT6xMAPnISsArN9Mtpk21j8x09V6ZE)
