@@ -14,18 +14,6 @@ Note: all links from this page are to 7z files. You need an app/command that can
 
 [Baba Is You (Linux)](https://mega.nz/file/SNMlhTTJ#hNjNfheD46ZA5LZZsxeR-G2qh71W5rYcV3urN_heCqE)
 
-## Roguelikes
-
-[Don't Starve](https://mega.nz/file/TFtSVZ5Q#-fCm51G9NY8unRZz_hyv4vJRsmY2krsI1-UHqISjXVo) (survival roguelike)
-
-[FTL: Faster Than Light](https://mega.nz/file/WQcknZxQ#Koydr_lOOhBCVt-1pKhHbVBaJBs833W-ecgLocdZhIo)
-
-[Inkulinati](https://mega.nz/file/6QkHUSZQ#II1SBwim5UXMjF-POTApbYZ6Y950jKwXfVC8_7iTQT0) (medieval board game)
-
-[Into the Breach](https://mega.nz/file/KFFTkLoI#RVdZgIuy3G69qXPqoRQDL-m0b2ZEsRt16er1_TKuuN4)
-
-[Invisible Inc](https://mega.nz/file/zM8n0JDC#ZpACP9GcSpSkpDebbZ0UIQBlhlVN-gmmzv6Q67Whtow)
-
 ## Math Games
 
 [4D Golf](https://mega.nz/file/WcVGzJZR#QWx80CxscW7hQy4CQV2j5sT-a_AKKYZDxyZo-us37eI)
@@ -54,15 +42,27 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 [Öoo](https://mega.nz/file/bQFggRzK#jcFHjoKKNeJWxk-Np8LTNM5TYBRHtSqW2XspLcBMJNM)
 
+## Rhythm Games
+
+[A Dance of Fire and Ice](https://mega.nz/file/DA1TEKZa#cjqqKXgzfk9Gr4yHkW0z-FnrC-t-rFJSUKxHAIUzyKU)
+
+## Roguelikes
+
+[Don't Starve](https://mega.nz/file/TFtSVZ5Q#-fCm51G9NY8unRZz_hyv4vJRsmY2krsI1-UHqISjXVo) (survival roguelike)
+
+[FTL: Faster Than Light](https://mega.nz/file/WQcknZxQ#Koydr_lOOhBCVt-1pKhHbVBaJBs833W-ecgLocdZhIo)
+
+[Inkulinati](https://mega.nz/file/6QkHUSZQ#II1SBwim5UXMjF-POTApbYZ6Y950jKwXfVC8_7iTQT0) (medieval board game)
+
+[Into the Breach](https://mega.nz/file/KFFTkLoI#RVdZgIuy3G69qXPqoRQDL-m0b2ZEsRt16er1_TKuuN4)
+
+[Invisible Inc](https://mega.nz/file/zM8n0JDC#ZpACP9GcSpSkpDebbZ0UIQBlhlVN-gmmzv6Q67Whtow)
+
 ## RPGs
 
 [Deltarune](https://mega.nz/file/iZNUlbYb#MHcF5dKeoTUWXW2U_uWJsC-pdg77TFTifl0yjEDL6Zw)
 
 [Undertale](https://mega.nz/file/eENA1JwB#Y__QdC0N5SpFyRViaoSHCw6Ue86cSiTF0h222f17Ad4)
-
-## Rhythm Games
-
-[A Dance of Fire and Ice](https://mega.nz/file/DA1TEKZa#cjqqKXgzfk9Gr4yHkW0z-FnrC-t-rFJSUKxHAIUzyKU)
 
 ## Shooter Games
 
