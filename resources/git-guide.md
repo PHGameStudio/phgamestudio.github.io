@@ -5,6 +5,8 @@ permalink: /resources/git-guide/
 toc: true
 ---
 
+Watch [Git Will Finally Make Sense After This](https://youtu.be/Ala6PHlYjmw) for an explanation of how git works. The guide below is for useful commands.
+
 # Guide to Git
 
 *This guide goes over the most important commands, see a full manual [here](https://wiki.archlinux.org/title/Git)*
