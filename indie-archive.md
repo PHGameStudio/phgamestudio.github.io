@@ -60,6 +60,8 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 [Invisible Inc](https://mega.nz/file/zM8n0JDC#ZpACP9GcSpSkpDebbZ0UIQBlhlVN-gmmzv6Q67Whtow)
 
+[The Ouroboros King](https://mega.nz/file/KZVHhLCa#5deXL18vZxwx9pKMZ9XNmARLYiUSaarcVUPIIdT-sH8) (the Chess Battle Advanced game)
+
 ## RPGs
 
 [Deltarune](https://mega.nz/file/iZNUlbYb#MHcF5dKeoTUWXW2U_uWJsC-pdg77TFTifl0yjEDL6Zw)
