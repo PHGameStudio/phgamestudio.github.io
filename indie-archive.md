@@ -20,7 +20,7 @@ Note: all links from this page are to 7z files. You need an app/command that can
 
 [Hyperbolica](https://mega.nz/file/SBt2lYgb#2qGKHmdua3Eyhd4jMrQKqt3-PoPSO25v3JGdO7GYOVA)
 
-## Other Puzzle Games
+## (Other) Puzzle Games
 
 [The Art of Reflection (Visual Perspective Puzzle)](https://mega.nz/file/OJdlgYzB#o4BtLhrsYdWvD9kFMua_3y3gs7I9FNGcMcpAZYgb-bU)
 
@@ -41,6 +41,8 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 [Lingo 2](https://mega.nz/file/ORcWHYjL#Dy4XZoszyKO66jcqMfQdzQA11yFIKdcn228HwRF_ZCg)
 
 [Öoo](https://mega.nz/file/bQFggRzK#jcFHjoKKNeJWxk-Np8LTNM5TYBRHtSqW2XspLcBMJNM)
+
+[Tactical Breach Wizards](https://mega.nz/file/uJNgDKBQ#B02mojiBK3ekCUdpmVupYfv_bnhZbu0knwSOd28U0G4) (xcom-like grid-based combat)
 
 ## Rhythm Games
 
