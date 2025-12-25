@@ -83,4 +83,4 @@ Use Crossover to run exes on Mac, use Steam or wine for Linux
 
 Download Crossover for Mac [here](https://haxmac.cc/crossover-mac/)
 
-<small>Chess Battle Advanced</small>
+<small><a href="https://mega.nz/file/KZVHhLCa#5deXL18vZxwx9pKMZ9XNmARLYiUSaarcVUPIIdT-sH8">Chess Battle Advanced</a></small>
