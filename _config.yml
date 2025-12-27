@@ -10,6 +10,7 @@ description: PH Game Studio
 url: "https://phgamestudio.github.io"
 exclude:
   - README.md
+  - GEMINI.md
   - _site/
   - .sass-cache/
   - .jekyll-cache/
