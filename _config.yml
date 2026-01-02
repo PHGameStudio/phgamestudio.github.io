@@ -1,13 +1,23 @@
-theme: minima
+theme: practical-club-website-template
+title: PHGameStudio
+description: PH Game Studio
+url: "https://phgamestudio.github.io"
+
 minima:
   skin: auto
   nav_pages:
     - index.md
     - indie-archive.md
     - resources.md
-title: PHGameStudio
-description: PH Game Studio
-url: "https://phgamestudio.github.io"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+kramdown:
+  math_engine: mathjax
+  input: GFM
+
 exclude:
   - README.md
   - GEMINI.md
@@ -17,5 +27,3 @@ exclude:
   - .jekyll-metadata
   - .bundle/
   - Gemfile.lock
-kramdown:
-  math_engine: mathjax
