@@ -29,11 +29,32 @@ Watch [Git Will Finally Make Sense After This](https://youtu.be/Ala6PHlYjmw) for
 - `git config --global user.name "github-username"`
 - Clone/push a private repo using https connection and paste token
 
+## Setup GitHub CLI
+
+### Installation
+
+- Windows: `winget install --id GitHub.cli`
+- Mac OS: `brew install gh`
+- Linux: use your package manager or same as Mac OS
+
+### Authentication
+
+- `gh auth login` to authenticate with your GitHub account
+	- Select `GitHub.com`
+	- Select `HTTPS` for preferred protocol
+	- Select `Yes` to authenticate Git with your GitHub credentials
+	- Select `Login with a web browser` and follow instructions
+- `gh auth setup-git` to configure git to use your GitHub CLI credentials (replaces the need for manual PAT setup)
+
 ## Important commands
 
 ### Cloning a repository
 
-- `git clone https://github.com/PHGameStudio/existing-repo.git`
+- `git clone https://github.com/owner-name/existing-repo.git`
+- `gh clone owner-name/existing-repo`
+	- Only works for repos on GitHub
+- `gh repo fork owner-name/existing-repo` to fork a repository and clone it locally
+- `gh browse` to open the current repository in your web browser
 
 ### Creating a repository
 
@@ -43,6 +64,7 @@ Watch [Git Will Finally Make Sense After This](https://youtu.be/Ala6PHlYjmw) for
 - `git commit -am "commit message title" -m "commit message body"`
 - `git remote add origin https://github.com/PHGameStudio/new-repo.git`
 - `git push -u origin main`
+- The last 2 lines can also be replaced with `gh repo create` and choosing "push an existing repository to GitHub" in the interactive repo creation menu
 
 ### Managing versions
 
@@ -77,3 +99,20 @@ Watch [Git Will Finally Make Sense After This](https://youtu.be/Ala6PHlYjmw) for
 - `git pull`: fetch and merge
 	- May require manual conflict resolution, like when merging 2 local branches
 - `git push -u origin main`: set origin/main as default remote and push local to remote. After this use `git push` to push to `main`, and `git push origin feature-branch` to push to a different branch
+
+### Managing Pull Requests (PRs)
+
+- `gh repo set-default` to set the base repository for PRs and issues (useful in forks)
+- `gh pr create` to create a PR for your current branch
+	- It will ask which repository to push to and which to use as the base
+- `gh pr list` to see all open PRs
+- `gh pr checkout <pr-number>` to checkout a PR locally
+- `gh pr merge` to merge the current PR (interactive)
+- `gh pr view --web` to see the PR in your browser
+
+### Managing Issues
+
+- `gh issue list` to see all open issues
+- `gh issue create` to create a new issue (interactive)
+- `gh issue view <issue-number> --web` to see the issue in your browser
+- `gh issue close <issue-number>` to close an issue

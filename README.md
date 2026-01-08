@@ -17,7 +17,7 @@ cd phgamestudio.github.io
 nix develop
 
 
-# 5 · Launch local server (no 'bundle exec' required)
+# 4 · Launch local server (no 'bundle exec' required)
 jekyll serve
 ```
 
