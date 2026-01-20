@@ -20,7 +20,7 @@ Note: all links from this page are to 7z files. You need an app/command that can
 
 [Hyperbolica](https://mega.nz/file/SBt2lYgb#2qGKHmdua3Eyhd4jMrQKqt3-PoPSO25v3JGdO7GYOVA)
 
-## (Other) Puzzle Games
+## (Other) Pure Puzzle Games
 
 [The Art of Reflection (Visual Perspective Puzzle)](https://mega.nz/file/OJdlgYzB#o4BtLhrsYdWvD9kFMua_3y3gs7I9FNGcMcpAZYgb-bU)
 
@@ -60,6 +60,8 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 [Invisible Inc](https://mega.nz/file/zM8n0JDC#ZpACP9GcSpSkpDebbZ0UIQBlhlVN-gmmzv6Q67Whtow)
 
+[The Ouroboros King](https://mega.nz/file/KZVHhLCa#5deXL18vZxwx9pKMZ9XNmARLYiUSaarcVUPIIdT-sH8)
+
 ## RPGs
 
 [Deltarune](https://mega.nz/file/iZNUlbYb#MHcF5dKeoTUWXW2U_uWJsC-pdg77TFTifl0yjEDL6Zw)
@@ -81,4 +83,17 @@ Use Crossover to run exes on Mac, use Steam or wine for Linux
 
 Download Crossover for Mac [here](https://haxmac.cc/crossover-mac/)
 
-<small><a href="https://mega.nz/file/KZVHhLCa#5deXL18vZxwx9pKMZ9XNmARLYiUSaarcVUPIIdT-sH8">Chess Battle Advanced</a></small>
+<script>
+function pickRandomChessLink() {
+	const links = [
+		"https://mega.nz/file/KZVHhLCa#5deXL18vZxwx9pKMZ9XNmARLYiUSaarcVUPIIdT-sH8",
+		"https://mega.nz/file/KFFTkLoI#RVdZgIuy3G69qXPqoRQDL-m0b2ZEsRt16er1_TKuuN4",
+		"https://mega.nz/file/uJNgDKBQ#B02mojiBK3ekCUdpmVupYfv_bnhZbu0knwSOd28U0G4",
+		"https://mega.nz/file/6QkHUSZQ#II1SBwim5UXMjF-POTApbYZ6Y950jKwXfVC8_7iTQT0",
+		"https://mega.nz/file/KYkjgY6B#rZRvuYOTOe0vJVT6xMAPnISsArN9Mtpk21j8x09V6ZE"
+	];
+	return links[Math.floor(Math.random() * links.length)];
+}
+</script>
+
+<small><a href="https://mega.nz/file/KZVHhLCa#5deXL18vZxwx9pKMZ9XNmARLYiUSaarcVUPIIdT-sH8" onclick="this.href=pickRandomChessLink();">Chess Battle Advanced</a></small>
