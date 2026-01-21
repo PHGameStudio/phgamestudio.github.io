@@ -62,6 +62,10 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 [The Ouroboros King](https://mega.nz/file/KZVHhLCa#5deXL18vZxwx9pKMZ9XNmARLYiUSaarcVUPIIdT-sH8)
 
+[Heat Signature](https://mega.nz/file/qYFWTDSA#Z2Xz4dBKTtrNb070ILDgwSzXciMEXKxBoCxcR38yd_o)
+
+[Gunpoint](https://mega.nz/file/OJl2WaKa#y-mH0vCL_wmVmwtCuaukt_XW2N6tsT9tB1P9-nT0iCU)
+
 ## RPGs
 
 [Deltarune](https://mega.nz/file/iZNUlbYb#MHcF5dKeoTUWXW2U_uWJsC-pdg77TFTifl0yjEDL6Zw)
