@@ -44,6 +44,12 @@
           export PATH="$GEM_HOME/bin:$PATH"
 
           echo "Environment loaded: $(bundle --version) (Managed by Nix)"
+
+          # Automatically install missing gems if Gemfile.lock doesn't match local .gem/
+          bundle check >/dev/null 2>&1 || {
+            echo "Gems are missing or out of date. Running bundle install..."
+            bundle install
+          }
         '';
       };
     };
