@@ -67,6 +67,7 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 [Gunpoint (Windows)](https://mega.nz/file/OJl2WaKa#y-mH0vCL_wmVmwtCuaukt_XW2N6tsT9tB1P9-nT0iCU)
 
 [Gunpoint (Linux)](https://mega.nz/file/rNk1UQCA#BdMlt9d-rSxX1ThXcm_JpJMARPI3_oFgtFP6MDJ4vog)
+
 - Needs pulseaudio or the complete pulseaudio compatibility layer for pipewire to run with sound (or run with steam linux runtime)
 
 ## RPGs
@@ -84,11 +85,12 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 [Shotgun King](https://mega.nz/file/KYkjgY6B#rZRvuYOTOe0vJVT6xMAPnISsArN9Mtpk21j8x09V6ZE)
 
 [SUPERHOT](https://mega.nz/file/TJs1lKKZ#8rxpeUhkOiqV7fz6am3LeeLXefZ9cUXOBhn8AO30EYs)
+
 - You have to check out this game. It's the most innovative shooter I've played in years.
 
 Use Crossover to run exes on Mac, use Steam or wine for Linux
 
-Download Crossover for Mac [here](https://haxmac.cc/crossover-mac/)
+Download Crossover for Mac [here](https://appstorrent.ru/185-crossover.html)
 
 <script>
 function pickRandomChessLink() {
