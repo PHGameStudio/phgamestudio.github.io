@@ -42,6 +42,8 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 [Öoo](https://mega.nz/file/bQFggRzK#jcFHjoKKNeJWxk-Np8LTNM5TYBRHtSqW2XspLcBMJNM)
 
+[Poke All Toads](https://mega.nz/file/6FNwyIQR#CqF7ioUoTGAOb6PI7OASFq11fLuG0b8uSdY1U5yM69I)
+
 [Tactical Breach Wizards](https://mega.nz/file/uJNgDKBQ#B02mojiBK3ekCUdpmVupYfv_bnhZbu0knwSOd28U0G4) (xcom-like grid-based combat)
 
 ## Rhythm Games
@@ -100,6 +102,7 @@ function pickRandomChessLink() {
 		"https://mega.nz/file/uJNgDKBQ#B02mojiBK3ekCUdpmVupYfv_bnhZbu0knwSOd28U0G4",
 		"https://mega.nz/file/6QkHUSZQ#II1SBwim5UXMjF-POTApbYZ6Y950jKwXfVC8_7iTQT0",
 		"https://mega.nz/file/KYkjgY6B#rZRvuYOTOe0vJVT6xMAPnISsArN9Mtpk21j8x09V6ZE"
+		"https://mega.nz/file/6FNwyIQR#CqF7ioUoTGAOb6PI7OASFq11fLuG0b8uSdY1U5yM69I"
 	];
 	return links[Math.floor(Math.random() * links.length)];
 }
