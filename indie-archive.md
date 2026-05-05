@@ -28,7 +28,7 @@ Note: all links from this page are to 7z files. You need an app/command that can
 
 [Cubicatch](https://mega.nz/file/vVED2BwD#Dnew8GLOmtAq0-FzT4JfPGzhIZnOU1bfJJPVDHHSrgw) (3D navigation puzzle)
 
-The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) to run on Linux):
+The Faraway Trilogy:
 
 - [Faraway: Director's Cut](https://mega.nz/file/GJsykA5S#ksHAEmhGyNaktplap0u_sdRadmkBCU25QVUDRyhy5IA)
 - [Faraway 2: Jungle Escape](https://mega.nz/file/WJ0mwRQD#vH_xTnQmZgSSw8kCdnzymuq_DDt_ixiO5Y9mECy3qD4)
@@ -90,21 +90,21 @@ The Faraway Trilogy (might need [umu-launcher](https://github.com/Open-Wine-Comp
 
 - You have to check out this game. It's the most innovative shooter I've played in years.
 
-Use Crossover to run exes on Mac, use Steam or wine for Linux
+Use Crossover to run exes on Mac, use [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) for Linux
 
 Download Crossover for Mac [here](https://appstorrent.ru/185-crossover.html)
 
 <script>
 function pickRandomChessLink() {
-	const links = [
-		"https://mega.nz/file/KZVHhLCa#5deXL18vZxwx9pKMZ9XNmARLYiUSaarcVUPIIdT-sH8",
-		"https://mega.nz/file/KFFTkLoI#RVdZgIuy3G69qXPqoRQDL-m0b2ZEsRt16er1_TKuuN4",
-		"https://mega.nz/file/uJNgDKBQ#B02mojiBK3ekCUdpmVupYfv_bnhZbu0knwSOd28U0G4",
-		"https://mega.nz/file/6QkHUSZQ#II1SBwim5UXMjF-POTApbYZ6Y950jKwXfVC8_7iTQT0",
-		"https://mega.nz/file/KYkjgY6B#rZRvuYOTOe0vJVT6xMAPnISsArN9Mtpk21j8x09V6ZE"
-		"https://mega.nz/file/6FNwyIQR#CqF7ioUoTGAOb6PI7OASFq11fLuG0b8uSdY1U5yM69I"
-	];
-	return links[Math.floor(Math.random() * links.length)];
+    const links = [
+        "https://mega.nz/file/KZVHhLCa#5deXL18vZxwx9pKMZ9XNmARLYiUSaarcVUPIIdT-sH8",
+        "https://mega.nz/file/KFFTkLoI#RVdZgIuy3G69qXPqoRQDL-m0b2ZEsRt16er1_TKuuN4",
+        "https://mega.nz/file/uJNgDKBQ#B02mojiBK3ekCUdpmVupYfv_bnhZbu0knwSOd28U0G4",
+        "https://mega.nz/file/6QkHUSZQ#II1SBwim5UXMjF-POTApbYZ6Y950jKwXfVC8_7iTQT0",
+        "https://mega.nz/file/KYkjgY6B#rZRvuYOTOe0vJVT6xMAPnISsArN9Mtpk21j8x09V6ZE"
+        "https://mega.nz/file/6FNwyIQR#CqF7ioUoTGAOb6PI7OASFq11fLuG0b8uSdY1U5yM69I"
+    ];
+    return links[Math.floor(Math.random() * links.length)];
 }
 </script>
 
