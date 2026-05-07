@@ -44,7 +44,7 @@ The Faraway Trilogy:
 
 [Poke All Toads](https://mega.nz/file/6FNwyIQR#CqF7ioUoTGAOb6PI7OASFq11fLuG0b8uSdY1U5yM69I)
 
-[Tactical Breach Wizards](https://mega.nz/file/uJNgDKBQ#B02mojiBK3ekCUdpmVupYfv_bnhZbu0knwSOd28U0G4) (xcom-like grid-based combat)
+[Tactical Breach Wizards](https://mega.nz/file/uJNgDKBQ#B02mojiBK3ekCUdpmVupYfv_bnhZbu0knwSOd28U0G4) (playable museum of the evolution of grid strategy games)
 
 ## Rhythm Games
 
