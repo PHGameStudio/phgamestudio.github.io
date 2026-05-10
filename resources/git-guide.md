@@ -9,7 +9,7 @@ Watch [Git Will Finally Make Sense After This](https://youtu.be/Ala6PHlYjmw) for
 
 # Guide to Git
 
-*This guide goes over the most important commands, see a full manual [here](https://wiki.archlinux.org/title/Git)*
+_This guide goes over the most important commands, see a full manual [here](https://wiki.archlinux.org/title/Git)_
 
 ## Add your GitHub account to PHGameStudio organization
 
@@ -40,10 +40,10 @@ Watch [Git Will Finally Make Sense After This](https://youtu.be/Ala6PHlYjmw) for
 ### Authentication
 
 - `gh auth login` to authenticate with your GitHub account
-	- Select `GitHub.com`
-	- Select `HTTPS` for preferred protocol
-	- Select `Yes` to authenticate Git with your GitHub credentials
-	- Select `Login with a web browser` and follow instructions
+  - Select `GitHub.com`
+  - Select `HTTPS` for preferred protocol
+  - Select `Yes` to authenticate Git with your GitHub credentials
+  - Select `Login with a web browser` and follow instructions
 - `gh auth setup-git` to configure git to use your GitHub CLI credentials (replaces the need for manual PAT setup)
 
 ## Important commands
@@ -52,7 +52,7 @@ Watch [Git Will Finally Make Sense After This](https://youtu.be/Ala6PHlYjmw) for
 
 - `git clone https://github.com/owner-name/existing-repo.git`
 - `gh clone owner-name/existing-repo`
-	- Only works for repos on GitHub
+  - Only works for repos on GitHub
 - `gh repo fork owner-name/existing-repo` to fork a repository and clone it locally
 - `gh browse` to open the current repository in your web browser
 
@@ -71,13 +71,13 @@ Watch [Git Will Finally Make Sense After This](https://youtu.be/Ala6PHlYjmw) for
 - `git ls-files` to list tracked files under the working directory
 - `git config --global alias.tree 'log --graph --oneline --all --decorate'`
 - `git tree` to see a version tree\
-	![](/images/git-tree-example.png){: width="75%"}
+  ![](/images/git-tree-example.png){: width="75%"}
 
 #### Linear versions
 
-- *Commit hash* is the string shown before command message in the tree
-	- `HEAD` can replace hash for representing current version
-	- Use `HEAD~` for the version before `HEAD`
+- _Commit hash_ is the string shown before command message in the tree
+  - `HEAD` can replace hash for representing current version
+  - Use `HEAD~` for the version before `HEAD`
 - `git checkout <commit-hash>` to view a commit (can't commit without checking out to newest)
 - `git checkout <commit-hash> -- .` to do an "edit" that restores everything to a commit, can still commit afterwards and the commit will be after the commit before checkout
 - `git diff <commit-hash-1> <commit-hash-2>` to see files changed between commits (commit-hash-2 is current version (HEAD) if blank)
@@ -88,23 +88,23 @@ Watch [Git Will Finally Make Sense After This](https://youtu.be/Ala6PHlYjmw) for
 - `git checkout branch-name` to checkout newest version in a branch
 - `git checkout -b feature-branch` to create a new branch and switch to it
 - `git checkout main`, `git merge feature` to merge branch `feature` into `main`
-	- Make sure you commit all changes before checking out `main`
-	- Some files may need to be resolved manually
+  - Make sure you commit all changes before checking out `main`
+  - Some files may need to be resolved manually
 - `git cherry-pick <commit-hash>` apply what changed in a specific commit to your current version (also may need manual resolution)
-	- \*Cherry-pick a range of commits: `git cherry-pick <oldest-commit>^..<newest-commit>`
+  - \*Cherry-pick a range of commits: `git cherry-pick <oldest-commit>^..<newest-commit>`
 
 #### Working with remotes
 
 - `git fetch` to fetch new commits on the remote, without changing current local version
 - `git pull`: fetch and merge
-	- May require manual conflict resolution, like when merging 2 local branches
+  - May require manual conflict resolution, like when merging 2 local branches
 - `git push -u origin main`: set origin/main as default remote and push local to remote. After this use `git push` to push to `main`, and `git push origin feature-branch` to push to a different branch
 
 ### Managing Pull Requests (PRs)
 
 - `gh repo set-default` to set the base repository for PRs and issues (useful in forks)
 - `gh pr create` to create a PR for your current branch
-	- It will ask which repository to push to and which to use as the base
+  - It will ask which repository to push to and which to use as the base
 - `gh pr list` to see all open PRs
 - `gh pr checkout <pr-number>` to checkout a PR locally
 - `gh pr merge` to merge the current PR (interactive)
@@ -116,3 +116,7 @@ Watch [Git Will Finally Make Sense After This](https://youtu.be/Ala6PHlYjmw) for
 - `gh issue create` to create a new issue (interactive)
 - `gh issue view <issue-number> --web` to see the issue in your browser
 - `gh issue close <issue-number>` to close an issue
+
+---
+
+Also check out [Guide to Jujutsu (jj)](/resources/jj-guide/)
