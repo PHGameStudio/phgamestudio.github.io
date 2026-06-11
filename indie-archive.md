@@ -26,6 +26,8 @@ Note: all links from this page are to 7z files. You need an app/command that can
 
 [Chants of Sennaar](https://mega.nz/file/bVMzWbBD#Tz_OQXRQwASpyHpgsq0Fo5Q8i0adxFJ3CsGv8NuEd0A) (linguistics game)
 
+[Crushed in Time](https://mega.nz/file/ncEilZrY#hDr2XSiYnIvLX_u5kngRtDfqvKlal0O6n-UsH2mftgY)
+
 [Cubicatch](https://mega.nz/file/vVED2BwD#Dnew8GLOmtAq0-FzT4JfPGzhIZnOU1bfJJPVDHHSrgw) (3D navigation puzzle)
 
 The Faraway Trilogy:
@@ -45,6 +47,8 @@ The Faraway Trilogy:
 [Poke All Toads](https://mega.nz/file/6FNwyIQR#CqF7ioUoTGAOb6PI7OASFq11fLuG0b8uSdY1U5yM69I)
 
 [Tactical Breach Wizards](https://mega.nz/file/uJNgDKBQ#B02mojiBK3ekCUdpmVupYfv_bnhZbu0knwSOd28U0G4) (playable museum of the evolution of grid strategy games)
+
+[There Is No Game: Wrong Dimension](https://mega.nz/file/nNkEmIwK#C0mXjeZBmQZV6Agx5G8lkcFTJYA2XO0x8FZFJgXkzkU)
 
 ## Rhythm Games
 
@@ -78,9 +82,11 @@ The Faraway Trilogy:
 
 [Undertale](https://mega.nz/file/eENA1JwB#Y__QdC0N5SpFyRViaoSHCw6Ue86cSiTF0h222f17Ad4)
 
-## Sandbox Games
+## Sandbox & Simulation
 
 [Space Engineers](https://mega.nz/file/OMsklTIb#ONiGKcYxERXVI4PrpQ-LGMvO8Vhnz32uYvYLRV-8mNg)
+
+[Scriptorium: Master of Manuscripts](https://mega.nz/file/vJMRBKAZ#wdn5HZ0GOv_CltV-tAGlf7-ElBEKOhefpC_VxfMz9ww)
 
 ## Shooter Games
 
