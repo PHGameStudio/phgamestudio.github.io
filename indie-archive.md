@@ -46,6 +46,8 @@ The Faraway Trilogy:
 
 [Poke All Toads](https://mega.nz/file/6FNwyIQR#CqF7ioUoTGAOb6PI7OASFq11fLuG0b8uSdY1U5yM69I)
 
+[Sensorium](https://mega.nz/file/3NtVRQLI#IbySQUQsU-v-C0rLSY13qAwKaO3c5Ntsi9Ox6qmzek8)
+
 [Tactical Breach Wizards](https://mega.nz/file/uJNgDKBQ#B02mojiBK3ekCUdpmVupYfv_bnhZbu0knwSOd28U0G4) (playable museum of the evolution of grid strategy games)
 
 [There Is No Game: Wrong Dimension](https://mega.nz/file/nNkEmIwK#C0mXjeZBmQZV6Agx5G8lkcFTJYA2XO0x8FZFJgXkzkU)
