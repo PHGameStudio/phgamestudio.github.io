@@ -47,7 +47,11 @@
             buildInputs = [
               pkgs.ruby_3_4
               bundler4
-            ];
+            ]
+            ++ (with pkgs; [
+              git
+              gh
+            ]);
 
             shellHook = ''
               # Isolate gems to the local project and add their binaries to PATH
