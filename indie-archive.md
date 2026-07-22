@@ -78,6 +78,8 @@ The Faraway Trilogy:
 
 - Needs pulseaudio or the complete pulseaudio compatibility layer for pipewire to run with sound (or run with steam linux runtime)
 
+[Pawnbarian](https://mega.nz/file/DMkEDABK#5xZQRNsVUpiBIHkmdgNM3tb8_cc4i1MDfbI_QM3R8RA)
+
 ## RPGs
 
 [Deltarune](https://mega.nz/file/iZNUlbYb#MHcF5dKeoTUWXW2U_uWJsC-pdg77TFTifl0yjEDL6Zw)
