@@ -56,7 +56,9 @@ The Faraway Trilogy:
 
 [A Dance of Fire and Ice](https://mega.nz/file/DA1TEKZa#cjqqKXgzfk9Gr4yHkW0z-FnrC-t-rFJSUKxHAIUzyKU)
 
-## Roguelikes
+## Roguelikes/Roguelike Puzzles
+
+[Blue Prince](https://mega.nz/file/WwB0yYiY#fuDFWV2t6t5tOIS5DC4BmCBhg4M7san-IzsQjsoUlzA)
 
 [Don't Starve](https://mega.nz/file/TFtSVZ5Q#-fCm51G9NY8unRZz_hyv4vJRsmY2krsI1-UHqISjXVo) (survival roguelike)
 

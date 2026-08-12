@@ -7,7 +7,7 @@ title: Home
 
 ![](/images/baba-black-background.png){: width="40%"}
 
-[**Latest game on archive: Sensorium**](https://mega.nz/file/3NtVRQLI#IbySQUQsU-v-C0rLSY13qAwKaO3c5Ntsi9Ox6qmzek8)
+[**Latest game on archive: Blue Prince**](https://mega.nz/file/WwB0yYiY#fuDFWV2t6t5tOIS5DC4BmCBhg4M7san-IzsQjsoUlzA)
 
 [Guide To Jujutsu Version Control System](/resources/jj-guide/)
 
