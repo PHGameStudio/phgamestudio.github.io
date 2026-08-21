@@ -16,35 +16,28 @@ _This guide goes over the most important commands, see a full manual [here](http
 - Share git username in group chat
 - Confirm entering organization from email message
 
-## Setup git CLI
+## Setup Git and GitHub CLI
 
-- Go to GitHub → profile pic → settings → developer settings → personal access tokens → tokens (classic)
-- Generate new token (classic)
-- No expiration date
-- Select scope write: packages
-- Copy token (and save it somewhere if you don't have clipboard manager)
+### Configure Git user info
 
-- `git config --global credential.helper store` to store account and password
+- `git config --global user.name "Your Name"`
 - `git config --global user.email "email.name@email.com"`
-- `git config --global user.name "github-username"`
-- Clone/push a private repo using https connection and paste token
 
-## Setup GitHub CLI
-
-### Installation
+### Install GitHub CLI (`gh`)
 
 - Windows: `winget install --id GitHub.cli`
-- Mac OS: `brew install gh`
-- Linux: use your package manager or same as Mac OS
+- macOS: `brew install gh`
+- Linux: use your package manager or same as macOS
 
-### Authentication
+### Authenticate Git via GitHub CLI
 
-- `gh auth login` to authenticate with your GitHub account
-  - Select `GitHub.com`
-  - Select `HTTPS` for preferred protocol
-  - Select `Yes` to authenticate Git with your GitHub credentials
-  - Select `Login with a web browser` and follow instructions
-- `gh auth setup-git` to configure git to use your GitHub CLI credentials (replaces the need for manual PAT setup)
+- `gh auth login` to authenticate with your GitHub account:
+	- Select `GitHub.com`
+	- Select `HTTPS` for preferred protocol
+	- Select `Yes` to authenticate Git with your GitHub credentials (configures Git credential helper automatically)
+	- Select `Login with a web browser` and follow instructions
+- `gh auth setup-git` to configure Git to use your GitHub CLI credentials (run this if you skipped Git authentication during login or need to reconfigure)
+- `gh auth status` to verify authentication status
 
 ## Important commands
 
