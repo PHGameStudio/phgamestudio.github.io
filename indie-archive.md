@@ -14,6 +14,8 @@ Note: all links from this page are to 7z files. You need an app/command that can
 
 [Baba Is You (Linux)](https://mega.nz/file/SNMlhTTJ#hNjNfheD46ZA5LZZsxeR-G2qh71W5rYcV3urN_heCqE)
 
+[Baba Is You (MacOS)](https://mega.nz/file/e8xjBaBZ#wBUm0vmyMFt64W21Y5IFLQ_MoR9573dF3VYGi7FKaiA)
+
 ## Math Games
 
 [4D Golf](https://mega.nz/file/WcVGzJZR#QWx80CxscW7hQy4CQV2j5sT-a_AKKYZDxyZo-us37eI)
