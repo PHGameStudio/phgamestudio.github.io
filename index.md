@@ -19,7 +19,7 @@ title: Home
 
 [Itch.io](https://phgamestudio.itch.io)
 
-[Antigravity(Currently recommended)](https://www.antigravity.google)
+[Antigravity (Currently recommended)](https://www.antigravity.google)
 
 /\
 :)
