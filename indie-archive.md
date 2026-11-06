@@ -24,6 +24,8 @@ Note: all links from this page are to 7z files. You need an app/command that can
 
 ## (Other) Pure Puzzle Games
 
+[Antichamber](https://mega.nz/file/n9gF1JjD#_HvzHZjIVfVsheZMDvOM-Fc3rMaNf3Fu_siXxBv8rVo)
+
 [The Art of Reflection (Visual Perspective Puzzle)](https://mega.nz/file/OJdlgYzB#o4BtLhrsYdWvD9kFMua_3y3gs7I9FNGcMcpAZYgb-bU)
 
 [Chants of Sennaar](https://mega.nz/file/bVMzWbBD#Tz_OQXRQwASpyHpgsq0Fo5Q8i0adxFJ3CsGv8NuEd0A) (linguistics game)
