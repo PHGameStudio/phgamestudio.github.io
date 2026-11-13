@@ -30,7 +30,7 @@ Note: all links from this page are to 7z files. You need an app/command that can
 
 [Chants of Sennaar](https://mega.nz/file/bVMzWbBD#Tz_OQXRQwASpyHpgsq0Fo5Q8i0adxFJ3CsGv8NuEd0A) (linguistics game)
 
-[Crushed in Time](https://mega.nz/file/ncEilZrY#hDr2XSiYnIvLX_u5kngRtDfqvKlal0O6n-UsH2mftgY)
+[Crushed in Time](https://mega.nz/file/ukBUlDbK#hnMIe2jyw9tuPX01k5uUfZF17pJZPwjquOEFZW1pmY8)
 
 [Cubicatch](https://mega.nz/file/vVED2BwD#Dnew8GLOmtAq0-FzT4JfPGzhIZnOU1bfJJPVDHHSrgw) (3D navigation puzzle)
 
